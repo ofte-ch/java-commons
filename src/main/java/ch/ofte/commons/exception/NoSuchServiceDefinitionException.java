@@ -1,4 +1,4 @@
-package commons.exception;
+package ch.ofte.commons.exception;
 
 public class NoSuchServiceDefinitionException extends BaseLogicException {
     public NoSuchServiceDefinitionException(String serviceName) {

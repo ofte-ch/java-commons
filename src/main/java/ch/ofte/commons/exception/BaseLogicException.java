@@ -1,4 +1,4 @@
-package commons.exception;
+package ch.ofte.commons.exception;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;

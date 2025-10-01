@@ -1,4 +1,4 @@
-package commons.exception;
+package ch.ofte.commons.exception;
 
 public class InvalidDataException extends BaseLogicException {
     public InvalidDataException(String message) {

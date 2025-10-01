@@ -1,4 +1,4 @@
-package commons.exception;
+package ch.ofte.commons.exception;
 
 public class InvalidServiceSpecificationException extends RuntimeException {
     public InvalidServiceSpecificationException(String message) {

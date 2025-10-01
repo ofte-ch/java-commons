@@ -1,4 +1,4 @@
-package commons.model;
+package ch.ofte.commons.model;
 
 import lombok.Getter;
 import lombok.Setter;

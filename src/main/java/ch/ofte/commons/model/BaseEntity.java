@@ -1,4 +1,4 @@
-package commons.model;
+package ch.ofte.commons.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
